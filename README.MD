@@ -7,6 +7,7 @@ Take full control over the appearance, functionality, and efficiency of your Win
 ## 🧹 Debloat Windows 11
 
 - **[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)** – The all-in-one tool to tweak, debloat, and customize Windows 11.
+- **[WinDebloat_by_LeDragoX](https://github.com/LeDragoX/Win-Debloat-Tools)** - Re-imagining Windows like a minimal OS install.
 - 🎥 *Watch:* [Craft Computing's Debloat Windows 11 Guide](https://www.youtube.com/watch?v=YlGOx4tJbZ4)
 
 ---
